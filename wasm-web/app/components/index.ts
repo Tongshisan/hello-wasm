@@ -1,0 +1,1 @@
+// export { WasmTest } from "./test";
